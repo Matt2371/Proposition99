@@ -12,5 +12,5 @@ retprice - average retail price of cigarettes
 
 # Directory Files
 Final_report.pdf - Report file explaining the synthetic control method in detail and summarizing the results of the data analysis <br/>
-Final_presentation.pptx (In Progress) - Presentation slides corresponding to the final report <br/>
+Final_presentation.pptx - Presentation slides corresponding to the final report <br/>
 syntehtic_control.ipynb - Notebook file detailing the application of the synthetic control method in Python.
